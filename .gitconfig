@@ -1,0 +1,16 @@
+[user]
+	name = Rodrigo Vargas
+	email = rodrigo.vargas@kairosds.com
+[core]
+	excludesfile = /Users/rodrigovargas/.gitignore-global
+	autocrlf = input
+	safecrlf = true
+	editor = subl -n -w
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path = 
+[mergetool "sourcetree"]
+	cmd = /Applications/Sourcetree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true
+[commit]
+	template = /Users/rodrigovargas/.stCommitMsg
