@@ -15,4 +15,4 @@ keybind = cmd+shift+d=new_split:down
 keybind = cmd+[=goto_split:left
 keybind = cmd+]=goto_split:right
 
-keybind = shift+k=clear_screen
+keybind = cmd+k=clear_screen
