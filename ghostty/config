@@ -1,0 +1,18 @@
+font-family = "DepartureMono Nerd Font"
+font-size = 16
+
+adjust-cell-width = 1
+adjust-cell-height = 5
+
+background-opacity = 0.8
+background-blur-radius = 19
+
+macos-titlebar-style = hidden
+quit-after-last-window-closed = true
+
+keybind = cmd+d=new_split:right
+keybind = cmd+shift+d=new_split:down
+keybind = cmd+[=goto_split:left
+keybind = cmd+]=goto_split:right
+
+keybind = shift+k=clear_screen
