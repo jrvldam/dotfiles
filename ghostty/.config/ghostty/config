@@ -1,0 +1,27 @@
+font-family = "DepartureMono Nerd Font"
+font-size = 14
+font-feature = -liga
+
+adjust-cell-height = 3
+
+background-opacity = 0.8
+background-blur-radius = 17
+
+macos-titlebar-style = hidden
+quit-after-last-window-closed = true
+
+window-padding-x = 10
+window-padding-y = 10
+window-padding-balance = true
+window-padding-color = background
+
+macos-option-as-alt = true
+
+keybind = cmd+d=new_split:right
+keybind = cmd+shift+d=new_split:down
+keybind = cmd+[=goto_split:left
+keybind = cmd+]=goto_split:right
+
+keybind = cmd+k=clear_screen
+
+# theme = vesper
