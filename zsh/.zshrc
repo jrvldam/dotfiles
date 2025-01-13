@@ -11,6 +11,8 @@
 # History
 #
 
+ZIM_HOME=~/.zim
+
 # Remove older command from the history if a duplicate is to be added.
 setopt HIST_IGNORE_ALL_DUPS
 
