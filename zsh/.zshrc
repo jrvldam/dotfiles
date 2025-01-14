@@ -150,12 +150,6 @@ fi
 # Recomended by brew doctor.
 export PATH="/usr/local/sbin:$PATH"
 
-export GOPATH=$HOME/Go
-export GOROOT=/usr/local/opt/go/libexec
-export PATH=$PATH:$GOPATH
-export PATH=$PATH:$GOROOT/bin
-export PATH="$GOPATH/bin:$PATH"
-
 # zoxide
 eval "$(zoxide init zsh)"
 
