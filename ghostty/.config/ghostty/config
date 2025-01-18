@@ -16,13 +16,12 @@ quit-after-last-window-closed = true
 background-opacity = 0.8
 background-blur-radius = 20
 
-font-family = "MesloLGDZ Nerd Font Mono"
+# font-family = "MesloLGDZ Nerd Font Mono" -- default font is JetBrains Mono
 font-size = 14
 font-feature = -liga
 font-thicken = true
 
 adjust-cell-height = 3
-
 
 keybind = cmd+d=new_split:right
 keybind = cmd+shift+d=new_split:down
@@ -30,4 +29,4 @@ keybind = cmd+[=goto_split:left
 keybind = cmd+]=goto_split:right
 keybind = cmd+k=clear_screen
 
-# theme = vesper
+theme = "light:catppuccin-latte,dark:catppuccin-mocha"
