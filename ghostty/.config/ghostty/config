@@ -15,7 +15,7 @@ quit-after-last-window-closed = true
 
 background-opacity = 0.8
 background-blur-radius = 20
-unfocused-split-opacity = 0.87
+unfocused-split-opacity = 0.97
 
 # font-family = "MesloLGDZ Nerd Font Mono" ## default font is JetBrains Mono
 font-size = 14
@@ -31,5 +31,5 @@ keybind = cmd+]=goto_split:right
 keybind = cmd+k=clear_screen
 
 # theme = vesper
-# theme = "light:catppuccin-latte,dark:catppuccin-mocha"
-theme = "light:OneHalfLight,dark:OneHalfDark"
+theme = "light:catppuccin-latte,dark:catppuccin-mocha"
+# theme = "light:OneHalfLight,dark:OneHalfDark"
