@@ -36,6 +36,7 @@ To install `tpm` tmux plugin manager:
 - New vertical pane default: `Prefix %`. Mapped to: `Prefix -`
 - Swap panes: `Prefix x`
 - Zoom (toggle) pane: `Prefix z`
+- Move to other pane: `Prefix <ARROW_KEY>`
 
 ### Vim motion
 
