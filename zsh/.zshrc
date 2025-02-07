@@ -152,6 +152,9 @@ else
     print "no ~/.zsh/local-setup.zsh"
 fi
 
+# Whatever
+export XDG_CONFIG_HOME="$HOME/.config"
+
 # Recomended by brew doctor.
 export PATH="/usr/local/sbin:$PATH"
 
