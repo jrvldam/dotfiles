@@ -10,7 +10,7 @@ background-blur-radius = 20
 unfocused-split-opacity = 0.92
 alpha-blending = linear-corrected
 
-font-family = "AtkynsonMono Nerd Font Mono" ## default font is JetBrains Mono
+font-family = "Annotation Mono"
 font-size = 14
 # font-feature = -calt,-liga, -dlig # !=
 font-thicken = true
