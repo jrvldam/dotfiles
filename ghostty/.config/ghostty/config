@@ -20,7 +20,9 @@ font-thicken = true
 adjust-cell-height = 5
 
 keybind = cmd+d=new_split:right
+keybind = cmd+i=new_split:left
 keybind = cmd+shift+d=new_split:down
+keybind = cmd+shift+i=new_split:up
 keybind = cmd+[=goto_split:left
 keybind = cmd+]=goto_split:right
 keybind = cmd+k=clear_screen
