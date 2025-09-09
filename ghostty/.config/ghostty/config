@@ -12,10 +12,10 @@ alpha-blending = linear-corrected
 
 cursor-invert-fg-bg = true
 
-font-family = "Annotation Mono"
+# font-family = "Annotation Mono"
+font-family = "OpenDyslexicM Nerd Font Mono"
 font-size = 14
 # font-feature = -calt,-liga, -dlig # !=
-font-thicken = true
 
 adjust-cell-height = 5
 
@@ -27,6 +27,4 @@ keybind = cmd+[=goto_split:left
 keybind = cmd+]=goto_split:right
 keybind = cmd+k=clear_screen
 
-# theme = vesper
 theme = "light:catppuccin-latte,dark:catppuccin-mocha"
-# theme = "light:OneHalfLight,dark:OneHalfDark"
