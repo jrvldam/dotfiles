@@ -27,4 +27,4 @@ keybind = cmd+[=goto_split:left
 keybind = cmd+]=goto_split:right
 keybind = cmd+k=clear_screen
 
-theme = "light:Catppuccin latte,dark:Catppuccin mocha"
+theme = "light:Catppuccin Latte,dark:Catppuccin Mocha"
