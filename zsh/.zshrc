@@ -155,6 +155,9 @@ fi
 # Whatever
 export XDG_CONFIG_HOME="$HOME/.config"
 
+# Cargo for tree-sitter-cli
+export PATH="$HOME/.cargo/bin:$PATH"
+
 # Recomended by brew doctor.
 export PATH="/usr/local/sbin:$PATH"
 
