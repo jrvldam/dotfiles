@@ -27,4 +27,7 @@ keybind = cmd+[=goto_split:left
 keybind = cmd+]=goto_split:right
 keybind = cmd+k=clear_screen
 
+# Quick terminal
+keybind = global:cmd+alt+t=toggle_quick_terminal
+
 theme = "light:Catppuccin Latte,dark:Catppuccin Mocha"
