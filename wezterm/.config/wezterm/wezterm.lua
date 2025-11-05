@@ -83,7 +83,7 @@ config.keys = {
 	{ key = "-", mods = "SHIFT|CTRL", action = act.DisableDefaultAssignment },
 	{ key = "-", mods = "SUPER", action = act.DisableDefaultAssignment },
 	-- For ClaudeIA requirement
-	{ key = "Enter", mods = "SHIFT", action = act.DisableDefaultAssignment },
+	{ key = "Enter", mods = "SHIFT", action = wezterm.action({ SendString = "\x1b\r" }) },
 }
 
 -- Finally, return the configuration to wezterm:
