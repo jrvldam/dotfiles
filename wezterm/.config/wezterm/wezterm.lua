@@ -2,13 +2,16 @@ local wezterm = require("wezterm")
 
 local config = wezterm.config_builder()
 
+-- Window
+-- window tab bar
 config.use_fancy_tab_bar = false
 config.hide_tab_bar_if_only_one_tab = true
-config.window_background_opacity = 0.8
-config.macos_window_background_blur = 19
 config.window_decorations = "RESIZE|INTEGRATED_BUTTONS"
 config.window_padding = { top = 20 }
-
+-- window background
+config.window_background_opacity = 0.8
+config.macos_window_background_blur = 19
+-- window start size
 config.initial_cols = 120
 config.initial_rows = 28
 
@@ -36,9 +39,11 @@ end
 
 local function scheme_for_appearance(appearance)
 	if appearance:find("Dark") then
-		return "catppuccin-mocha"
+		-- return "catppuccin-mocha"
+		return "tokyonight"
 	else
-		return "catppuccin-latte"
+		-- return "catppuccin-latte"
+		return "tokyonight-day"
 	end
 end
 
