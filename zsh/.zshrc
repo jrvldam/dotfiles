@@ -137,9 +137,9 @@ bindkey -M vicmd 'j' history-substring-search-down
 
 # Happy user configuration
 alias ..="cd .."
-alias ...="cd ..."
-alias ....="cd ...."
-alias .....="cd ....."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias .....="cd ../../../.."
 
 function take() {
   mkdir -p $@ && cd ${@:$#}
