@@ -30,4 +30,4 @@ keybind = cmd+k=clear_screen
 # Quick terminal
 keybind = global:cmd+alt+t=toggle_quick_terminal
 
-theme = "light:Catppuccin Latte,dark:Catppuccin Mocha"
+theme = "light:TokyoNight Day,dark:TokyoNight Night"
