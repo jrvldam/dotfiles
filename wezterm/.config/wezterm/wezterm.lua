@@ -9,17 +9,21 @@ config.hide_tab_bar_if_only_one_tab = true
 config.window_decorations = "RESIZE|INTEGRATED_BUTTONS"
 config.window_padding = { top = 23 }
 -- window background
-config.window_background_opacity = 0.9
-config.macos_window_background_blur = 23
+config.window_background_opacity = 0.85
+config.macos_window_background_blur = 20
 -- window start size
 config.initial_cols = 120
 config.initial_rows = 28
 
+config.max_fps = 240 -- hack for smoothness
+config.enable_kitty_graphics = true
+
 -- Font
 -- JetBrains Mono
 config.cell_width = 1.1
-config.line_height = 1.3
+config.line_height = 1.5
 config.font_size = 14
+config.font = wezterm.font("Lilex Nerd Font")
 -- OpenDyslexic
 -- config.font = wezterm.font("OpenDyslexicM Nerd Font Mono")
 -- config.line_height = 1.1
@@ -39,10 +43,9 @@ end
 
 local function scheme_for_appearance(appearance)
 	if appearance:find("Dark") then
-		-- return "catppuccin-mocha"
-		return "tokyonight"
+		-- return "tokyonight"
+		return "Kanagawa (Gogh)"
 	else
-		-- return "catppuccin-latte"
 		return "tokyonight-day"
 	end
 end
