@@ -1,91 +1,67 @@
-# 🚀 Rutina Typing - Guía Rápida
+# 🚀 Rutina Typing
 
-## ⏱️ Resumen Diario
+## 📅 Rutina Semanal de 10 Minutos
 
-- Tiempo: 15-20 minutos (divisibles)
-- Foco: Precisión > Velocidad
-- Regla clave: NO mirar teclado
+### Lunes: Fundamentos
 
-## 📅 Rutina Semanal
+- 4 min [keybr.com](https://keybr.com) (All keys) → Calentamiento
+- 3 min [monkeytype.com](https://monkeytype.com/) → "english 200" (precisión)
+- 3 min Ejercicio concreto: Escribe `const x = { a: 1, b: 2 };` y variaciones
+  cambiando símbolos. Enfócate en `{}` y `:;`.
 
-### Lunes: Transición Código → Texto
-
-- 4 min [keybr.com](https://keybr.com) (All keys)
-- 5 min [speedcoder.net](https://speedcoder.net/) (tu lenguaje)
-- 5 min [monkeytype.com](https://monkeytype.com/) → "english 1k"
-- 6 min Aplicación consciente (regla 90/90)
-
-### Martes: Símbolos en Contexto
+### Martes: Símbolos Específicos
 
 - 4 min [keybr.com](https://keybr.com)
-- 5 min Código con símbolos complejos: `{[( )]} const func = () => { return []; };`
-- 5 min Documentación técnica con código incrustado
-- 6 min Aplicación consciente
+- 3 min Ejercicio concreto 1: `function test() { return [1, 2, 3]; }` → repite 5
+  veces con variaciones en `()`, `{}`, `[]`.
+- 3 min Ejercicio concreto 2: Flechas y comparaciones:
+  `() => {}`, `if (a >= b) { return c <= d; }`.
 
 ### Miércoles: Velocidad Comunicativa
 
 - 4 min [keybr.com](https://keybr.com)
-- 5 min [10fastfingers.com](https://10fastfingers.com) (competencia)
-- 5 min Respuestas de email reales (en editor vacío)
-- 6 min Aplicación consciente
+- 6 min Ejercicio concreto: Abre tu cliente de email/chat. Responde un mensaje
+  real de tu bandeja, pero dos veces:
+  1. Primero en un editor vacío, con técnica perfecta.
+  2. Luego lo copias y envías.
 
-### Jueves: Precisión Técnica
-
-- 4 min [keybr.com](https://keybr.com)
-- 5 min [typing.io](https://typing.io) (código real)
-- 5 min Dictado técnico (YouTube tutorial 1.25x)
-- 6 min Aplicación consciente
-
-### Viernes: Integración + Pruebas
+### Jueves: Código Real
 
 - 4 min [keybr.com](https://keybr.com)
-- 10 min [monkeytype.com](https://monkeytype.com) (alternar modos)
-- 3 min Pruebas de progreso
-- 6 min Aplicación consciente
+- 6 min [typing.io](https://typing.io) → SELECCIONA 1 SOLO EJERCICIO de tu lenguaje
+  principal. No completes, practica lentamente.
 
-## 🎯 Regla 90/90 (La más importante)
+### Viernes: Integración y Prueba
 
-Durante los próximos 90 minutos de trabajo:
-Cada nueva tarea de escritura →
-Primeros 90 segundos con:
-✓ Manos en posición home row
-✓ Sin mirar teclado
-✓ Ritmo constante
-✓ Precisión perfecta
+- 4 min [keybr.com](https://keybr.com)
+- 3 min [monkeytype.com](https://monkeytype.com) → "code" mode
+- 3 min Autoprueba: Escribe en editor vacío: "El objetivo es escribir código limpio
+  con menos errores. Los símbolos {} son clave." Mide tu precisión.
 
-## ⚡ Micro-prácticas (Pausas breves)
+## 🎯 Regla 90/90
 
-- **Post-reunión:** Resumen en 60s con técnica perfecta
-- **Pre-mensaje:** Reescribe 1 vez con foco técnico
-- **Compilando:** 30s de símbolos `{[( )]}`
-- **Cambio contexto:** `código → prosa → código` en 45s
+"Al empezar a trabajar, los próximos 90 minutos son mi sesión de calidad. Cada
+vez que inicie una nueva tarea de escritura (email, código, mensaje), dedicaré
+los primeros 90 segundos a escribir con precisión quirúrgica, sin mirar el teclado.
+Pasado ese tiempo, puedo continuar normalmente."
 
-## 📊 Pruebas Viernes (6 minutos)
+**Ejemplos concretos de activación:**
 
-| Prueba            | Plataforma     | Configuración        | Tiempo |
-| ----------------- | -------------- | -------------------- | ------ |
-| Código            | monkeytype.com | modo "code"          | 2 min  |
-| Texto general     | monkeytype.com | modo "english 1k"    | 2 min  |
-| Comunicación real | Editor vacío   | Explica algo técnico | 2 min  |
+- "Voy a escribir el email a cliente X → 90s de precisión"
+- "Voy a codificar la función `calculateTotal` → 90s de precisión"
+- "Voy a escribir el mensaje en el PR → 90s de precisión"
 
-**Métricas a registrar:**
+## 📊 Registro Sencillo (Viernes)
 
-- Velocidad (PPM/WPM)
-- Precisión (%)
-- Fatiga subjetiva (1-5)
+| Fecha | Código (PPM/% ) | Texto (WPM/%) | Observación |
+| ----- | --------------- | ------------- | ----------- |
+|       |                 |               |             |
 
-## 🔗 Enlaces Esenciales
+**Solo anota esto los viernes.** Compara cada 2 semanas.
 
-- [keybr.com](https://keybr.com) - Calentamiento
-- [monkeytype.com](https://monkeytype.com) - Práctica mixta
-- [speedcoder.net](https://speedcoder.net) - Código por lenguaje
-- [typing.io](https://typing.io) - Código real open source
-- [10fastfingers.com](https://10fastfingers.com) - Velocidad
-
-## 📱 Checklist Diario Rápido
+## ✅ Checklist Diario (10 Minutos)
 
 - [ ] 4 min calentamiento (keybr)
-- [ ] 10 min práctica específica (según día)
-- [ ] 6 min regla 90/90 en trabajo real
-- [ ] NO mirar teclado durante práctica
-- [ ] Si precisión <95%, reducir velocidad
+- [ ] 6 min ejercicio concreto del día
+- [ ] Activar "Regla 90/90" en mi próximo bloque de trabajo
+- [ ] **Si precisión <95%, bajar velocidad inmediatamente**
