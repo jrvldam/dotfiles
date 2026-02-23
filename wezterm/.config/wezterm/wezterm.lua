@@ -23,7 +23,7 @@ config.enable_kitty_graphics = true
 config.cell_width = 1.1
 config.line_height = 1.5
 config.font_size = 14
-config.font = wezterm.font("Lilex Nerd Font")
+-- config.font = wezterm.font("Lilex Nerd Font")
 -- OpenDyslexic
 -- config.font = wezterm.font("OpenDyslexicM Nerd Font Mono")
 -- config.line_height = 1.1
