@@ -14,7 +14,7 @@ cursor-invert-fg-bg = true
 
 # font-family = "Annotation Mono"
 # font-family = "OpenDyslexicM Nerd Font Mono"
-# font-family = "Lilex Nerd Font"
+font-family = "Lilex Nerd Font"
 font-size = 14
 # font-feature = -calt,-liga, -dlig # !=
 adjust-cell-height = 5
