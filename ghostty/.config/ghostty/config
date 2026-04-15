@@ -2,7 +2,8 @@
 shell-integration = zsh
 
 macos-titlebar-style = tabs
-macos-option-as-alt = true
+# Make accesnt work in macos
+macos-option-as-alt = false
 quit-after-last-window-closed = true
 
 background-opacity = 0.8
