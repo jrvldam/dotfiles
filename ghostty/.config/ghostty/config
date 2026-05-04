@@ -11,8 +11,6 @@ background-blur-radius = 20
 unfocused-split-opacity = 0.92
 alpha-blending = linear-corrected
 
-cursor-invert-fg-bg = true
-
 # font-family = "Annotation Mono"
 # font-family = "OpenDyslexicM Nerd Font Mono"
 font-family = "Lilex Nerd Font"
@@ -32,4 +30,8 @@ keybind = cmd+k=clear_screen
 # Quick terminal
 keybind = global:cmd+alt+t=toggle_quick_terminal
 
+# Theme
 theme = "light:TokyoNight Day,dark:TokyoNight Night"
+# Override theme selection colors to use inverted fg/bg
+selection-foreground = cell-background
+selection-background = cell-foreground
